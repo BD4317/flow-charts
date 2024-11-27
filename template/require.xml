@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowCharts>
+    <FlowChartItems guid="1153071c-a3a3-426f-a931-e77bd871709d" Tabname="">
+        <QGraphicsFlowChartItem Uid="ced98ce3-f079-4f96-b19c-4696924e32e2" FlowType="4" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-4-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="1379.69" Y="-303.125"/>
+        <QGraphicsFlowChartItem Uid="3198775e-929a-42c4-a833-dad7183dcb9b" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="1060.94" Y="-517.187"/>
+        <QGraphicsFlowChartItem Uid="26f65d52-f8b0-491e-be50-d793e227bf4c" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="1078.12" Y="-70.3125"/>
+        <QGraphicsFlowChartItem Uid="70b0553b-23ad-4982-a2b2-69438b37c15c" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="881.25" Y="123.438"/>
+        <QGraphicsFlowChartItem Uid="cf88f850-1ddb-4863-93ac-f16aa7f4d28a" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="632.812" Y="123.438"/>
+        <QGraphicsFlowChartItem Uid="35da2bc7-ce42-408d-b6ac-7981fe74ccbb" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="759.375" Y="-78.125"/>
+        <QGraphicsFlowChartItem Uid="6390bf50-e327-4eb6-a18d-740dd121c062" FlowType="4" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-4-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="440.625" Y="-85.9375"/>
+        <QGraphicsFlowChartItem Uid="194c38e3-5ee4-4c6e-a3f6-83ead5c2d098" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="120.063" Y="-76.5625"/>
+        <QGraphicsFlowChartItem Uid="5607c5ed-08c8-4ddf-9bcb-f5e1cce4bf9f" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="120.063" Y="-296.875"/>
+        <QGraphicsFlowChartItem Uid="df59844a-14be-4a88-b3e5-e2898d1c0231" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="120.063" Y="-511.563"/>
+        <QGraphicsFlowChartItem Uid="fe6187de-6fc6-41b4-be68-2efd39eee44f" FlowType="4" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-4-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="-172.25" Y="-400.062"/>
+        <QGraphicsFlowChartItem Uid="4effee69-13aa-4acd-8a3b-b6324e45420c" FlowType="4" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-4-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="-166" Y="-87.9375"/>
+        <QGraphicsFlowChartItem Uid="95b6f3ef-a811-43cc-8590-3f7ad8a3f929" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="-428.875" Y="-75.25"/>
+    </FlowChartItems>
+    <ConnectingLineItems>
+        <QGraphicsConnectingLineItem Uid="3f34009e-86c6-4a5b-b42e-051cd1377d8a" myStartItem="ced98ce3-f079-4f96-b19c-4696924e32e2" myEndItem="3198775e-929a-42c4-a833-dad7183dcb9b" myColor="#000000" x1="1220.94" y1="-382.207" x2="1409.69" y2="-252.488"/>
+        <QGraphicsConnectingLineItem Uid="7d8fc274-7350-47ef-aa3e-8419c25f04bc" myStartItem="ced98ce3-f079-4f96-b19c-4696924e32e2" myEndItem="5607c5ed-08c8-4ddf-9bcb-f5e1cce4bf9f" myColor="#000000" x1="280.063" y1="-216.954" x2="1379.69" y2="-218.046"/>
+        <QGraphicsConnectingLineItem Uid="39ee84ba-f5f3-4cd7-bc18-6a67354cf231" myStartItem="26f65d52-f8b0-491e-be50-d793e227bf4c" myEndItem="ced98ce3-f079-4f96-b19c-4696924e32e2" myColor="#000000" x1="1413.36" y1="-183.125" x2="1237.55" y2="-50.3125"/>
+        <QGraphicsConnectingLineItem Uid="371a3ec6-d975-4e66-85e3-4a7848eccf1e" myStartItem="35da2bc7-ce42-408d-b6ac-7981fe74ccbb" myEndItem="26f65d52-f8b0-491e-be50-d793e227bf4c" myColor="#000000" x1="1078.12" y1="7.72672" x2="919.375" y2="3.83578"/>
+        <QGraphicsConnectingLineItem Uid="57aa212a-a6e4-4b3c-8e5e-936c34f111f6" myStartItem="35da2bc7-ce42-408d-b6ac-7981fe74ccbb" myEndItem="70b0553b-23ad-4982-a2b2-69438b37c15c" myColor="#000000" x1="924.971" y1="143.438" x2="875.654" y2="61.875"/>
+        <QGraphicsConnectingLineItem Uid="68fe9f42-18a7-413a-9ec6-29a7fa439a40" myStartItem="35da2bc7-ce42-408d-b6ac-7981fe74ccbb" myEndItem="cf88f850-1ddb-4863-93ac-f16aa7f4d28a" myColor="#000000" x1="750.487" y1="143.438" x2="801.701" y2="61.875"/>
+        <QGraphicsConnectingLineItem Uid="edcd40fb-a3bb-40bf-a785-52986ad3433f" myStartItem="df59844a-14be-4a88-b3e5-e2898d1c0231" myEndItem="3198775e-929a-42c4-a833-dad7183dcb9b" myColor="#000000" x1="1060.94" y1="-436.709" x2="280.063" y2="-432.041"/>
+        <QGraphicsConnectingLineItem Uid="dfa19fdf-eb55-4b9b-9446-dffde1533e4e" myStartItem="6390bf50-e327-4eb6-a18d-740dd121c062" myEndItem="5607c5ed-08c8-4ddf-9bcb-f5e1cce4bf9f" myColor="#000000" x1="280.063" y1="-162.985" x2="470.625" y2="-34.6185"/>
+        <QGraphicsConnectingLineItem Uid="fc5b3467-81ca-4fa2-a4a7-58104beb2ed6" myStartItem="6390bf50-e327-4eb6-a18d-740dd121c062" myEndItem="35da2bc7-ce42-408d-b6ac-7981fe74ccbb" myColor="#000000" x1="759.375" y1="1.16912" x2="600.625" y2="-0.231618"/>
+        <QGraphicsConnectingLineItem Uid="6c4d73c4-5281-4b8b-a3f8-027d441921f5" myStartItem="194c38e3-5ee4-4c6e-a3f6-83ead5c2d098" myEndItem="6390bf50-e327-4eb6-a18d-740dd121c062" myColor="#000000" x1="440.625" y1="0.154331" x2="280.063" y2="2.34567"/>
+        <QGraphicsConnectingLineItem Uid="7107e393-bedf-4f2f-a7df-8c0b5167cd24" myStartItem="fe6187de-6fc6-41b4-be68-2efd39eee44f" myEndItem="5607c5ed-08c8-4ddf-9bcb-f5e1cce4bf9f" myColor="#000000" x1="120.063" y1="-243.747" x2="-22.25" y2="-291.55"/>
+        <QGraphicsConnectingLineItem Uid="afbaaa03-5b9a-4ff3-9f41-9a10bc9b2c8c" myStartItem="fe6187de-6fc6-41b4-be68-2efd39eee44f" myEndItem="df59844a-14be-4a88-b3e5-e2898d1c0231" myColor="#000000" x1="120.063" y1="-399.679" x2="-29.522" y2="-340.062"/>
+        <QGraphicsConnectingLineItem Uid="e86ee1b8-e14f-41bb-96c8-7a489c22b75c" myStartItem="4effee69-13aa-4acd-8a3b-b6324e45420c" myEndItem="194c38e3-5ee4-4c6e-a3f6-83ead5c2d098" myColor="#000000" x1="120.063" y1="1.65467" x2="-6" y2="-1.15467"/>
+        <QGraphicsConnectingLineItem Uid="546e2cc1-a525-49c8-97ba-b1807b3d59d1" myStartItem="4effee69-13aa-4acd-8a3b-b6324e45420c" myEndItem="fe6187de-6fc6-41b4-be68-2efd39eee44f" myColor="#000000" x1="-91.1487" y1="-260.062" x2="-87.1013" y2="-57.9375"/>
+        <QGraphicsConnectingLineItem Uid="0fc439cf-ebac-4cd8-a9bf-bd3900436a74" myStartItem="95b6f3ef-a811-43cc-8590-3f7ad8a3f929" myEndItem="4effee69-13aa-4acd-8a3b-b6324e45420c" myColor="#000000" x1="-166" y1="-0.597985" x2="-268.875" y2="2.41049"/>
+    </ConnectingLineItems>
+    <FlowTextItems>
+        <QGraphicsFlowTextItem Uid="ad760ce7-b4e2-4f90-80dc-25608df99bf2" HtmlText="是" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="1329.69" Y="-340.625"/>
+        <QGraphicsFlowTextItem Uid="5c5d9468-d9cd-4b57-b7bb-82974d338d76" HtmlText="是" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="660.937" Y="-34.375"/>
+        <QGraphicsFlowTextItem Uid="9199e2f5-5cca-4b70-be08-90d47fc70cb4" HtmlText="否" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="734.375" Y="-254.687"/>
+        <QGraphicsFlowTextItem Uid="a181e133-3ffb-4601-9b50-c448492f977f" HtmlText="否" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="385.937" Y="-114.062"/>
+        <QGraphicsFlowTextItem Uid="ee964f46-0366-441b-8e7e-733204476352" HtmlText="否" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="37.5" Y="-34.375"/>
+        <QGraphicsFlowTextItem Uid="8f004b7a-a1db-445d-ae09-68c6c6cafb84" HtmlText="否" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="50" Y="-300"/>
+        <QGraphicsFlowTextItem Uid="ed8f9c3d-2269-4a66-899b-9641f34708ed" HtmlText="是" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="25" Y="-406.25"/>
+        <QGraphicsFlowTextItem Uid="c8019ca6-cd2d-4c69-9ba8-60b800cd306f" HtmlText="是" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="-118.75" Y="-151.562"/>
+        <QGraphicsFlowTextItem Uid="942d5e56-e99a-4173-b9a5-c25f7f443e4f" HtmlText="达到预期" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="1414.69" Y="-239.625"/>
+        <QGraphicsFlowTextItem Uid="63b3a955-daff-4e74-90a9-073ea7feee45" HtmlText="全量发布" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="1095.94" Y="-453.687"/>
+        <QGraphicsFlowTextItem Uid="c591ee72-a5d9-4b44-84fb-80d511d7a947" HtmlText="效果评估" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="1113.12" Y="-6.8125"/>
+        <QGraphicsFlowTextItem Uid="a0566814-aeca-4e61-8313-f45cd867c0a6" HtmlText="后台： 用户ABtest" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="906.25" Y="175.438"/>
+        <QGraphicsFlowTextItem Uid="437f2e41-8e5e-4395-8193-53dffb215904" HtmlText="客户端： 发布内测版本" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="647.812" Y="175.438"/>
+        <QGraphicsFlowTextItem Uid="4f517167-f052-4c1f-896d-4e554e9dae8f" HtmlText="小步迭代 灰度测试" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="794.375" Y="-26.125"/>
+        <QGraphicsFlowTextItem Uid="517be065-0503-4a83-907e-889b1d028f0e" HtmlText="值得尝试" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="475.625" Y="-22.4375"/>
+        <QGraphicsFlowTextItem Uid="1b39fcfa-2e4d-48cd-8f76-5c816940df07" HtmlText="进一步调研" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="145.063" Y="-13.0625"/>
+        <QGraphicsFlowTextItem Uid="75ba362c-b6fe-4a87-8c7f-eaed8a5871ec" HtmlText="不做" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="175.063" Y="-233.375"/>
+        <QGraphicsFlowTextItem Uid="2b2b9a31-121f-45fb-9f34-2c918ff27502" HtmlText="做" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="185.063" Y="-448.063"/>
+        <QGraphicsFlowTextItem Uid="740040b2-8424-4968-99e4-f8f651ac9adb" HtmlText="需求合理" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="-137.25" Y="-336.562"/>
+        <QGraphicsFlowTextItem Uid="ae653c1f-71ff-47a9-864b-8cf677717f36" HtmlText="有把握" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="-121" Y="-24.4375"/>
+        <QGraphicsFlowTextItem Uid="b983d40c-aa86-4535-886c-f66c7df706f4" HtmlText="收到需求" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="-393.875" Y="-11.75"/>
+    </FlowTextItems>
+</FlowCharts>

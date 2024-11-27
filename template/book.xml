@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowCharts>
+    <FlowChartItems guid="9b9950c4-4b21-491e-8148-0f2c59e01774" Tabname="">
+        <QGraphicsFlowChartItem Uid="545ba78e-0aa7-4f1a-9a49-c95204cebe76" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="323" Y="12"/>
+        <QGraphicsFlowChartItem Uid="0f4cd346-c6eb-4f91-80dc-7c20e6d9d957" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="43" Y="325.5"/>
+        <QGraphicsFlowChartItem Uid="1ee7640e-02c7-45f5-9d74-0d3b0c754916" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="43" Y="140.5"/>
+        <QGraphicsFlowChartItem Uid="b17eaf23-a62f-454f-8745-d10783319ac6" FlowType="4" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-4-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="43" Y="-65"/>
+        <QGraphicsFlowChartItem Uid="14888382-f31f-4f51-8d51-b5822d14a9d7" FlowType="3" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-3-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="43" Y="-242"/>
+        <QGraphicsFlowChartItem Uid="c8903a8e-5d7e-429a-a079-3d341ee60064" FlowType="1" FillColor="w" BorderColor="b" SvgPath=":/image/flowchart/icon/fc-1-bw.svg" QTransform="10 0 0 0 10 0 0 0 1" X="43" Y="-428.25"/>
+    </FlowChartItems>
+    <ConnectingLineItems>
+        <QGraphicsConnectingLineItem Uid="5c5f3958-e450-49d5-a907-a50f5eec7968" myStartItem="545ba78e-0aa7-4f1a-9a49-c95204cebe76" myEndItem="1ee7640e-02c7-45f5-9d74-0d3b0c754916" myColor="#000000" x1="203" y1="183.786" x2="323" y2="128.714"/>
+        <QGraphicsConnectingLineItem Uid="9667ce40-0c79-4d43-8b46-ab9ae7f3a620" myStartItem="b17eaf23-a62f-454f-8745-d10783319ac6" myEndItem="545ba78e-0aa7-4f1a-9a49-c95204cebe76" myColor="#000000" x1="323" y1="71.4286" x2="193" y2="38"/>
+        <QGraphicsConnectingLineItem Uid="f4203a98-3b87-4f8b-bb29-0ba2f5a68b84" myStartItem="1ee7640e-02c7-45f5-9d74-0d3b0c754916" myEndItem="0f4cd346-c6eb-4f91-80dc-7c20e6d9d957" myColor="#000000" x1="123" y1="345.5" x2="123" y2="280.5"/>
+        <QGraphicsConnectingLineItem Uid="bdc0b492-d713-462f-a1de-ca28f9108d35" myStartItem="b17eaf23-a62f-454f-8745-d10783319ac6" myEndItem="1ee7640e-02c7-45f5-9d74-0d3b0c754916" myColor="#000000" x1="123" y1="160.5" x2="123" y2="75"/>
+        <QGraphicsConnectingLineItem Uid="e5ffded6-c718-40ef-9464-d31eebe1ea4f" myStartItem="14888382-f31f-4f51-8d51-b5822d14a9d7" myEndItem="b17eaf23-a62f-454f-8745-d10783319ac6" myColor="#000000" x1="123" y1="-35" x2="123" y2="-102"/>
+        <QGraphicsConnectingLineItem Uid="cc1a1bdf-503c-4f4e-b8d0-99f10ad2544e" myStartItem="c8903a8e-5d7e-429a-a079-3d341ee60064" myEndItem="14888382-f31f-4f51-8d51-b5822d14a9d7" myColor="#000000" x1="123" y1="-222" x2="123" y2="-308.25"/>
+    </ConnectingLineItems>
+    <FlowTextItems>
+        <QGraphicsFlowTextItem Uid="17a77ef8-2b95-401b-832a-a337a4328a1d" HtmlText="否" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="237.5" Y="131.25"/>
+        <QGraphicsFlowTextItem Uid="5ec9dad3-2056-445a-8ff1-b16b4a8b01eb" HtmlText="是" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="238.75" Y="21.25"/>
+        <QGraphicsFlowTextItem Uid="62823545-4f4e-41d7-91c8-f6b4b2948f67" HtmlText="支付罚款" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="358" Y="75.5"/>
+        <QGraphicsFlowTextItem Uid="e7e45d83-8f5d-4dc5-9145-c33fdafd723d" HtmlText="还书成功 系统更新数据库" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="48" Y="377.5"/>
+        <QGraphicsFlowTextItem Uid="e9e94392-4a03-4106-83cc-1952494a9a62" HtmlText="确认还书" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="78" Y="204"/>
+        <QGraphicsFlowTextItem Uid="c3239c0e-dc40-4b3a-9ac6-4dd2acae7ee1" HtmlText="是否超期" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="78" Y="-1.5"/>
+        <QGraphicsFlowTextItem Uid="d3af1d26-277d-4760-9ef9-042ffd830b84" HtmlText="将图书放入还 书器相应位置" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="58" Y="-190"/>
+        <QGraphicsFlowTextItem Uid="e63e0868-904e-4b05-bfdc-70deaaed0f87" HtmlText="开始" defaultTextColor="#000000" fontFamily="SimSun" fontSize="12" X="98" Y="-364.75"/>
+    </FlowTextItems>
+</FlowCharts>

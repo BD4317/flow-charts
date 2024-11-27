@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">  
+  <defs>  
+    <style type="text/css">  
+      .outer-fill {  
+        fill: #517bcc;  
+        fill-opacity: 0.8;  
+      }  
+      .inner-fill {  
+        fill: #FF0000;  
+      }  
+    </style>  
+  </defs>  
+  <title>流程图-过程</title>  
+  <!-- 外层矩形 -->  
+  <path class="outer-fill" d="M7.723,3.084a.5.5,0,0,1,.555,0l7.5,5a.5.5,0,0,1,0,.832l-7.5,5a.5.5,0,0,1-.555,0l-7.5-5a.5.5,0,0,1,0-.832ZM8,4.1,1.4,8.5,8,12.9l6.6-4.4Z"/>  
+  <!-- 内层矩形（调整为绝对路径可能更清晰，但这里保持相对路径并调整） -->  
+  <path class="inner-fill" d="M8,4.1,1.4,8.5,8,12.9l6.6-4.4Z"/>  
+</svg>

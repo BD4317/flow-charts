@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <!-- 正方形边框，内部填充红色 -->
+  <path d="M 0 0 L 12 0 L 18 6 L 18 18 L 0 18 Z" fill="red" stroke="#000" stroke-width="2" />
+
+  <!-- 去掉斜边 -->
+  <path d="M 12 6 L 18 6" fill="none" stroke="#000" stroke-width="1" />
+  <path d="M 12 6 L 12 0" fill="none" stroke="#000" stroke-width="1" />
+</svg>

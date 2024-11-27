@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">  
+  <defs>  
+    <style type="text/css">  
+      .outer-fill {  
+        fill: #517bcc;  
+        fill-opacity: 0.8;  
+      }  
+      .inner-fill {  
+        fill: #00FF00;  
+      }  
+    </style>  
+  </defs>  
+  <title>流程图-过程</title>  
+  <path class="outer-fill" d="M11,3H5V13h6Zm1,0V13h3V3ZM4,3H1V13H4ZM0,2.5A.5.5,0,0,1,.5,2h15a.5.5,0,0,1,.5.5v11a.5.5,0,0,1-.5.5H.5a.5.5,0,0,1-.5-.5Z"/>
+  <path class="inner-fill" d="M11,3H5V13h6Zm1,0V13h3V3ZM4,3H1V13H4Z"/>  
+</svg>
